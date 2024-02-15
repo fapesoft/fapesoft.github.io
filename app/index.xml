@@ -6,7 +6,16 @@
     <description>Recent content in App on Fapesoft</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 May 2020 11:22:16 +0600</lastBuildDate><atom:link href="https://fapesoft.com/app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Feb 2024 11:22:16 +0600</lastBuildDate><atom:link href="https://fapesoft.com/app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prime Brain</title>
+      <link>https://fapesoft.com/app/primebrain/</link>
+      <pubDate>Thu, 15 Feb 2024 11:22:16 +0600</pubDate>
+      
+      <guid>https://fapesoft.com/app/primebrain/</guid>
+      <description>Have you ever thought of challenging the world with your brain? Test your mind, find out your score and climb the real-world leaderboard.</description>
+    </item>
+    
     <item>
       <title>QR Scanner &amp; Barcode Reader</title>
       <link>https://fapesoft.com/app/qr_code/</link>
